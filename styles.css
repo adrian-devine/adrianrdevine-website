@@ -33,3 +33,9 @@ img {
 .league-link:hover {
     text-decoration: underline;
 }
+
+.sender-form-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
